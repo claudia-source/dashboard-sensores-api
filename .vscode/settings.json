@@ -1,0 +1,10 @@
+{
+    "wolf.disableHotModeWarning": true,
+    "cSpell.mergeCSpellSettings": false,
+    "cSpell.useLocallyInstalledCSpellDictionaries": false,
+    "cSpell.enabled": false,
+    "cSpell.showAutocompleteDirectiveSuggestions": false,
+    "cSpell.checkOnlyEnabledFileTypes": false,
+    "cSpell.useGitignore": false,
+    "cSpell.ignoreRandomStrings": false
+}
