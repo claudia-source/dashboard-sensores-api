@@ -27,7 +27,7 @@ dashboard_sensores/
 └── capturas/
 ⚙️ Instalación
 1. Clonar repositorio
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/claudia-source/dashboard-sensores-ap
 2. Entrar a la carpeta
 cd dashboard_sensores
 3. Instalar dependencias
